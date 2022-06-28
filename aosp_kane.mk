@@ -36,7 +36,7 @@ TARGET_GAPPS_ARCH := arm64
 PRODUCT_DEVICE := kane
 PRODUCT_NAME := aosp_kane
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := motorola one vision
+PRODUCT_MODEL := moto one vision
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
