@@ -19,7 +19,7 @@
    {
         "repository": "kernel_motorola_exynos9610",
         "target_path": "kernel/motorola/exynos9610",
-        "branch": "twelve"
+        "branch": "twelve-wip"
     },
     {
         "repository": "LineageOS/android_device_samsung_slsi_sepolicy",
